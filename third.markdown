@@ -10,4 +10,9 @@ layout:default
 * Bullet lists are also easy to create
 * One more
 
+Go to [First Page](index.html)
+
+
 Go to [Second Page](secpg.html)
+
+Go to [Fourth Page](four.html)
