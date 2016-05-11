@@ -12,9 +12,12 @@ v2:cat
 * Bullet lists are also easy to create
 * One more
 
-v1 value is: {{page.v1}}
+Using inline html
+
+
+<p>v1 value is: {{page.v1}}</p>
  
-v2 value is: {{page.v2}}
+<p>v2 value is: {{v2}}</p>
 
 
 Go to [First Page](index.html)
