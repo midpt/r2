@@ -12,11 +12,10 @@ layout:default
 
 This line no liquid
 
-Another liquid .   Title : {{page.title}}
+
 
 Plain. no liquid
 
-This line has liquid code.  Title:    {{title}}
 
 
 
