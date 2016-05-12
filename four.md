@@ -14,7 +14,7 @@ v2:cat
 
 Using inline html
 
-
+v1 value <p>{{v1}}</p>
 
 
 
