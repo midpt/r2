@@ -10,8 +10,14 @@ layout:default
 * Bullet lists are also easy to create
 * One more
 
+This line no liquid
+
+Another liquid .   Title : {{page.title}}
+
+Plain. no liquid
 
 This line has liquid code.  Title:    {{title}}
+
 
 
 Go to [First Page](index.html)
