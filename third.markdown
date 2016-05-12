@@ -10,6 +10,10 @@ layout:default
 * Bullet lists are also easy to create
 * One more
 
+
+This line has liquid code.  Title:    {{title}}
+
+
 Go to [First Page](index.html)
 
 
