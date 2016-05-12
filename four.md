@@ -15,9 +15,7 @@ v2:cat
 Using inline html
 
 
-<p>v1 value is: {{page.v1}}</p>
- 
-<p>v2 value is: {{v2}}</p>
+
 
 
 Go to [First Page](index.html)
