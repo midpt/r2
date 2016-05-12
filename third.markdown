@@ -12,7 +12,7 @@ layout:default
 
 This line no liquid
 
-added liguid page . title : {{page.title}}
+added liguid  title : {{title}}
 
 Plain. no liquid
 
