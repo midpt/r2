@@ -10,11 +10,9 @@ layout:default
 * Bullet lists are also easy to create
 * One more
 
-This line no liquid
+Below is an image
 
-added liguid  title : {{title}}
-
-Plain. no liquid
+![Globe](images/globe1.jpg)
 
 
 
