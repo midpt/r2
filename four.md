@@ -14,7 +14,8 @@ v2:cat
 
 Using inline html
 
-v1 value <p>{{v1}}</p>
+v1 value<p>{{page.v1}}</p>
+v1 value<p>{{page.v2}}</p>
 
 
 
