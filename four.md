@@ -4,7 +4,7 @@ layout: default
 v1: dog
 v2: cat
 v3: Fan
-v4: Toy
+v4:Toy
 ---
 
 # This is Fourth page
@@ -22,11 +22,11 @@ v1 value:
 v2 value
 <p>{{page.v2}}</p>
 
-v3 value:
-<p>{{page.v3}}</p>
+
+<p>v3 value:{{page.v3}}</p>
  
-v4 value no space:
-<p>{{page.v4}}</p>
+
+<p>v4 value:{{page.v4}}</p>
  
 Go to [First Page](index.html)
 
@@ -35,4 +35,4 @@ Go to [Second Page](secpg.html)
 
 Go to [Third Page](third.html)
 
-### ddd
+### aaa
