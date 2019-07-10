@@ -1,8 +1,8 @@
 ---
 title: Fourth page
 layout: default
-v1:dog
-v2:cat
+v1: dog
+v2: cat
 ---
 
 # This is Fourth page
@@ -31,4 +31,4 @@ Go to [Second Page](secpg.html)
 
 Go to [Third Page](third.html)
 
-### eee
+### jjj
