@@ -54,7 +54,7 @@ D -- Planning   --&gt;E[&lt;center&gt;&lt;b&gt; 2nd Aug Friday 11:45am&lt;/b&gt;
 </div>
 
 
-  <div id="content"></div>
+<div id="content"></div>
 
 
 
